@@ -1,4 +1,4 @@
-##SQL Solutions for Assignment - Level A Task
+SQL Solutions for Assignment - Level A Task
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Step-by-Step Guide to Install AdventureWorks Database
