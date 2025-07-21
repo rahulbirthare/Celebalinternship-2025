@@ -77,5 +77,5 @@ MIT License - Free for personal and commercial use.
 Name: Rahul Birthare
 Batch: 02/06/2025-03/08/2025(SQL)
 StudentId:  CT_CSI_SQ_4733
-📧 Contact: [0173cs221097@gmail.com]
+📧 Contact: 0173cs221097@gmail.com
 Mobile no,: 7566301524
